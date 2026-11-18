@@ -1,7 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/choxos/choxos.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "mlumr"]
 	path = mlumr
 	url = https://github.com/choxos/mlumr
+[submodule "rfair"]
+	path = rfair
+	url = https://github.com/choxos/rfair
+[submodule "rtransparency"]
+	path = rtransparency
+	url = https://github.com/choxos/rtransparency
+[submodule "sysreqr"]
+	path = sysreqr
+	url = https://github.com/choxos/sysreqr
