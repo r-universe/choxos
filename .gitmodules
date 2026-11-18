@@ -2,9 +2,21 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ggextreme"]
+	path = ggextreme
+	url = https://github.com/cran/ggextreme
+[submodule "krt"]
+	path = krt
+	url = https://github.com/cran/krt
 [submodule "mlumr"]
 	path = mlumr
 	url = https://github.com/choxos/mlumr
+[submodule "respondeR"]
+	path = respondeR
+	url = https://github.com/cran/respondeR
+[submodule "retraction"]
+	path = retraction
+	url = https://github.com/cran/retraction
 [submodule "rfair"]
 	path = rfair
 	url = https://github.com/choxos/rfair
